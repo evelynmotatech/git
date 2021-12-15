@@ -1,1 +1,1 @@
-Segundo arquivo do curso GIT
+Excluido texto da branch main 
